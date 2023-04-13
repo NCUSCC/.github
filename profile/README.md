@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Nanchang University" src="https://cdnjson.com/images/2023/04/14/NanchangUniversity.png" height="400">
+    <img alt="Nanchang University" src="https://cdnjson.com/images/2023/04/14/NanchangUniversity.md.png" height="400">
 </p>
 
 <h2 align="center"> 𝗛𝗲𝗹𝗹𝗼, 𝗜𝘁'𝘀 <a href="https://hpc.ncuscc.tech">Nanchang University Student Cluster Competition Team</a>！ 👨‍💻 </h2>
@@ -16,9 +16,10 @@
 
 这里是南昌大学超算队，我们欢迎新同学的加入，同样也欢迎和各大高校超算队建立联系~
 
-We are a motivated Student Cluster Competition Team at Nanchang University, has participated in the ASC Student Supercomputer Challenge for 9 years. As the host of the finals in 2018, our school welcomed excellent supercomputing talents from all over the world. Our best result in ASC is the first prize.Now, we are trying to challenge the broader boundaries of supercomputing and attempting to establish extensive connections with more supercomputing universities.
+We are a motivated Student Cluster Competition Team at Nanchang University, has participated in the ASC Student Supercomputer Challenge for 9 years. As the host of the finals in 2018, our school welcomed excellent supercomputing talents from all over the world. Our best result in ASC is the first prize.
 
-Nanchang University is the only 211 project university in Jiangxi Province, which devotes significant efforts to computer science research, especially on high-performance computing (HPC). HPC enables the blossom of Artificial Intelligence and Data-intensive business nowadays. Thus, HPC shall be considered as the foundation of the cutting-edge computer science and technique. Nanchang University has already investigated and successfully built the largest distributed high-performance clusters for educational purpose in the mid-west region of China. The peak performance is 100 TFlop, based on a carefully-designed heterogeneous architecture.
+**Now, we are trying to challenge the broader boundaries of supercomputing and attempting to establish extensive connections with more supercomputing universities.**
+
 
 ### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 
