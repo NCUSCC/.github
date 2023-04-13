@@ -8,7 +8,7 @@
   <samp>
     <a href="https://github.com/NCUSCC"><b>Github</b></a> ∙ 
     <a href="https://ncuscc.github.io/"><b>Homepage</b></a> ∙
-      <a href="https://ncuscc.github.io/contact"><b>Contact</b></a> 
+      <a href="https://ncuscc.github.io/Contact"><b>Contact</b></a> 
   </samp>
 </p>
 
