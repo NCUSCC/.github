@@ -18,7 +18,7 @@
 
 We are a motivated Student Cluster Competition Team at Nanchang University, has participated in the ASC Student Supercomputer Challenge for 9 years. As the host of the finals in 2018, our school welcomed excellent supercomputing talents from all over the world. Our best result in ASC is the first prize.
 
-**Now, we are trying to challenge the broader boundaries of supercomputing and attempting to establish extensive connections with more supercomputing universities.**
+**Now, we are trying to challenge the broader boundaries of supercomputing and attempting to establish extensive connections with more supercomputing universities, Welcome to [Contact](https://ncuscc.github.io/Contact) with us!!!**
 
 
 ### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
