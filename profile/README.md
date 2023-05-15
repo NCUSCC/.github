@@ -31,9 +31,6 @@ The largest singleton language model in 2022.2 with 246B parameters, which achie
 
 [![Yuan](https://github-readme-stats.vercel.app/api/pin?username=NCUSCC&repo=ASC22-Yuan&theme=radical)](https://github.com/NCUSCC/ASC22-Yuan)
 
-#### DeePMD:
-
-[![DeePMD](https://github-readme-stats.vercel.app/api/pin?username=NCUSCC&repo=ASC22-DeePMD&theme=radical)](https://github.com/NCUSCC/ASC22-DeePMD)
 
 ### 𝗝𝗼𝗶𝗻 𝘂𝘀 | 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝘄𝗶𝘁𝗵 𝘂𝘀
 
