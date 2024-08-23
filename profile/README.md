@@ -12,11 +12,11 @@
 
 ### 𝗔𝗯𝗼𝘂𝘁
 
-这里是南昌大学超算队，我们欢迎新同学的加入，同样也欢迎和各大高校超算队建立联系~
+这里是南昌大学超算俱乐部，我们欢迎新同学的加入，同样也欢迎和各大高校超算俱乐部建立联系~
 
 我们正在准备下一届 ASC25（初赛预计会在2024年年底展开），期待更多新生力量的涌现！
 
-这是我们之前的一篇招新贴：[南昌大学超算队-正经招新指南](https://zhuanlan.zhihu.com/p/628849152)
+这是我们之前的一篇招新贴：[南昌大学超算俱乐部-正经招新指南](https://zhuanlan.zhihu.com/p/628849152)
 
 We are a motivated Student Cluster Competition Team at Nanchang University, that has participated in the ASC Student Supercomputer Challenge for 9 years. As the host of the finals in 2018, our school welcomed excellent supercomputing talents from all over the world. Our best result in ASC is the first prize.
 
