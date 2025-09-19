@@ -1,6 +1,6 @@
 
 
-<h2 align="center"> 𝗛𝗲𝗹𝗹𝗼, 𝗜𝘁'𝘀 <a href="https://ncuscc.github.io/">Nanchang University Student Cluster Competition Team</a>！ 👨‍💻 </h2>
+<h2 align="center"> 𝗛𝗲𝗹𝗹𝗼, 𝗜𝘁'𝘀 <a href="https://ncuscc.github.io/">Nanchang University Super Computing Club</a>！ 👨‍💻 </h2>
 
 <p align="center">
   <samp>
@@ -18,7 +18,7 @@
 
 这是我们之前的一篇招新贴：[南昌大学超算俱乐部-正经招新指南](https://zhuanlan.zhihu.com/p/628849152)
 
-We are a motivated Student Cluster Competition Team at Nanchang University, that has participated in the ASC Student Supercomputer Challenge for 9 years. As the host of the finals in 2018, our school welcomed excellent supercomputing talents from all over the world. Our best result in ASC is the first prize.
+We are a motivated Student Super Computing Club at Nanchang University, that has participated in the ASC Student Supercomputer Challenge for 9 years. As the host of the finals in 2018, our school welcomed excellent supercomputing talents from all over the world. Our best result in ASC is the first prize.
 
 **Now, we are trying to challenge the broader boundaries of supercomputing and attempting to establish extensive connections with more supercomputing universities, Welcome to [Contact](https://ncuscc.github.io/Contact) with us!!!**
 
