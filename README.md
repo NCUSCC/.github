@@ -29,6 +29,5 @@ We are a motivated Student Cluster Competition Team at Nanchang University, has 
 ### 𝗝𝗼𝗶𝗻 𝘂𝘀 | 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝘄𝗶𝘁𝗵 𝘂𝘀
 
 - [**hpc@ncuscc.tech**](mailto:hpc@ncuscc.tech)
-- [**congruiyin@email.ncu.edu.cn**](mailto:congruiyin@email.ncu.edu.cn)
-- [**kechen666@email.ncu.edu.cn**](mailto:kechen666@email.ncu.edu.cn)
+- [**Zhengyang_Li@email.ncu.edu.cn**](mailto:Zhengyang_Li@email.ncu.edu.cn)
 
