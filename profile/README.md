@@ -31,7 +31,7 @@ We are a motivated Student Cluster Competition Team at Nanchang University, that
 <div align=center><img src="https://github.com/user-attachments/assets/275c5b36-971b-4221-8709-39e40861945c"></div>
 
 
-If you find our WeChat group is out of date, feel free to add our group member's WeChat, and we will invite you soon:
+If you find our QQ group is out of date, feel free to add our group member's WeChat, and we will invite you soon:
 <div align=center><img src="https://github.com/user-attachments/assets/d2c773fc-a6f2-400e-9ff4-41964f7af4b5" height="400"></div>
 <!-- div align=center><img src="https://github.com/NCUSCC/.github/assets/88324880/b6dc34e3-01bc-42f3-8643-a61d4c6507ed" height="400"></div>  -->
 
