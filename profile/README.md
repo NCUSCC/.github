@@ -28,7 +28,7 @@ We are a motivated Student Super Computing Club at Nanchang University, that has
 - [**Contact our current leader**](mailto:Zhengyang_Li@email.ncu.edu.cn)
 
 #### QQ Group
-<div align=center><img src="https://github.com/user-attachments/assets/275c5b36-971b-4221-8709-39e40861945c"></div>
+<div align=center><img src="https://github.com/muyuliyan/myblog_figureBed/blob/main/NCUSCC/qqgroup_QRcode.jpg"></div>
 
 
 If you find our QQ group is out of date, feel free to add our group member's WeChat, and we will invite you soon:
